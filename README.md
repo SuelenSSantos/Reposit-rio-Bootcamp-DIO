@@ -1,5 +1,5 @@
-# Repositório-Bootcamp Santander-DIO 💻♨️
-Desafio de projeto (Git/GitHub)
+# Desafio Bootcamp Santander-DIO 💻♨️
+Desafio de projeto-Repositório (Git/GitHub)
 
 ## Links úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
